@@ -1,0 +1,1 @@
+These are my personal notes on best practices for using SSH securely and effectively. They are intended as a reference for configuring, managing, and troubleshooting SSH connections with an emphasis on security.
