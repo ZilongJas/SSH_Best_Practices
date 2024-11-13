@@ -1,7 +1,6 @@
 Configure keep-live packets on client side
 
-![image](https://github.com/user-attachments/assets/95f94c32-3f6d-4db1-bf62-2bb91ca6fb47)
-
+![Screenshot from 2024-11-13 08-08-53](https://github.com/user-attachments/assets/26f4be5b-9ef4-49f1-9e67-d209bf3dec69)
 in `~/.ssh/config`
 - `chmod 600 ~/.ssh/config`
   - principle of least privilege
